@@ -100,3 +100,5 @@ export class ChromaSDK {
         return await response.json();
     }
 }
+
+export * from './types';
