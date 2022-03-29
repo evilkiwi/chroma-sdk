@@ -1,6 +1,6 @@
 {
     "name": "@evilkiwi/chroma-sdk",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Razer Chroma SDK for REST API",
     "files": [
         "build"
@@ -9,7 +9,7 @@
     "types": "./build/src/index.d.ts",
     "license": "GPL-3.0-only",
     "author": {
-        "name": "CastHub Limited",
+        "name": "Evil Kiwi Limited",
         "url": "https://evil.kiwi",
         "email": "support@evil.kiwi"
     },
