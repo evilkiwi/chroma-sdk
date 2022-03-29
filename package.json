@@ -1,5 +1,5 @@
 {
-    "name": "@tnotifier/chroma-sdk",
+    "name": "@evilkiwi/chroma-sdk",
     "version": "1.0.1",
     "description": "Razer Chroma SDK for REST API",
     "files": [
@@ -10,16 +10,16 @@
     "license": "GPL-3.0-only",
     "author": {
         "name": "CastHub Limited",
-        "url": "https://tnotifier.app",
-        "email": "support@tnotifier.app"
+        "url": "https://evil.kiwi",
+        "email": "support@evil.kiwi"
     },
-    "homepage": "https://github.com/tnotifier/chroma-sdk",
+    "homepage": "https://github.com/evilkiwi/chroma-sdk",
     "bugs": {
-        "url": "https://github.com/tnotifier/chroma-sdk/issues"
+        "url": "https://github.com/evilkiwi/chroma-sdk/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/tnotifier/chroma-sdk.git"
+        "url": "git+https://github.com/evilkiwi/chroma-sdk.git"
     },
     "keywords": [
         "typescript",
